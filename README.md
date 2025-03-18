@@ -4,6 +4,10 @@
   🚀 <b>Computer Science Engineering Student</b> | 💻 <b>Tech Enthusiast</b> | 🧠 <b>Problem Solver</b>  
 </p>
 
+<p align="center"> 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150px">
+</p>
+
 ---
 
 ## 🛠️ Tech Stack & Skills  
@@ -26,17 +30,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="Databases" />
 </p>
 
-### 📌 Concepts  
-
-✔ **Data Structures & Algorithms**  
-✔ **Object-Oriented Programming (OOP)**  
-✔ **Database Management Systems (DBMS)**  
-✔ **Operating Systems (OS)**  
-✔ **RESTful APIs & Backend Development**  
-✔ **AI/ML Basics & Data Science**  
-✔ **Agile Development & Software Engineering**  
-
----
 
 ## 📈 GitHub Stats  
 
