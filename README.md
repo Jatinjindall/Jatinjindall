@@ -1,51 +1,85 @@
-### Hi there, I'm Jatin Jindal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<!-- START OF README -->
 
----
-
-![Tech Banner](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
-🚀 **Tech Enthusiast | C++ | Python | Java | Web Dev | AI/ML**  
-🎯 **Problem Solver | Open Source Contributor | DSA Geek**
-
----
-
-## 🌟 About Me
-
-- 🏫 BTech CSE Student @ **Thapar University**
-- 💻 Passionate about **Data Structures, Algorithms, and AI**
-- 🔥 Always **learning new technologies** and building cool projects
-- 🎙️ Public Speaker, Toastmasters Member, Tech Blogger
-
----
-
-## 💡 Tech Stack
-
-### 🖥️ Programming Languages
-![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-
-### ⚙️ Frameworks & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js) ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-
-### 🛠️ Dev Tools
-![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code) ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">
+  Hey there, I'm **Jatin Jindal**! <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" alt="coding gif" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinjindall&show_icons=true&theme=radical" width="48%" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="tech animation" width="200" />
+</p>
+
+<p align="center">
+  <strong>The Coolest Tech Guy Who Knows Maximum Tech</strong>
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 🚀 About Me
 
-💼 **LinkedIn**: [Jatin Jindal](https://www.linkedin.com/in/jatinjindal54/)  
-📂 **GitHub**: [jatinjindall](https://github.com/jatinjindall)  
-✉️ **Email**: jjindal_be23@thapar.edu  
+I'm a passionate Computer Science Engineer, endlessly exploring the realms of code and innovation. I thrive on building solutions that blend creativity with technology. Expect a mix of clean code, mesmerizing animations, and a sprinkle of geeky humor along the way.
 
+<p align="center">
+  <img src="https://c.tenor.com/2pWuyRRuJoUAAAAC/coding-coding-gif.gif" alt="cool coder" width="300">
+</p>
+
+---
+
+## 💻 Skills & Technologies
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</div>
+
+---
+
+## 🎓 Education
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="100" alt="graduation cap">
+</p>
+
+**Bachelor of Computer Science Engineering**  
+*Thapar Institute of Engineering and Technology*  
+_Patiala, India_
+
+---
+
+## 🌟 Leadership & Extracurriculars
+
+I actively engage in communities and lead initiatives to drive change:
+
+- **Toastmasters International Club** – Enhancing public speaking and leadership.
+- **Society for Community Engineering** – Leveraging engineering to solve real-world challenges.
+- **Campus Tech Societies** – Organizing tech events that bring innovation to life.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="leadership sticker" width="150">
+</p>
+
+---
+
+## 📫 How to Reach Me
+
+Let's connect and create something awesome together!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatinjindal54/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatinjindall)
+
+---
+
+## ⚡ Fun Stuff
+
+I'm all about that fun code life! Check out my dynamic work and enjoy the little surprises sprinkled around:
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohhwEUK3eg4tKtnc0/giphy.gif" alt="fun coding" width="300">
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="300px">
 </p>
+
+<!-- END OF README -->
