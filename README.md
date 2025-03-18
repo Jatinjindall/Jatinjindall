@@ -1,9 +1,5 @@
 <h1 align="center">✨ Hey there! I'm Jatin Jindal 👋</h1>  
 
-<p align="center">
-  🎓 <b>CS Undergrad @ Thapar University</b> | 💻 <b>Tech Enthusiast</b> | 🚀 <b>Problem Solver</b>  
-</p>
-
 <p align="center"> 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px">
 </p>
@@ -11,17 +7,29 @@
 ---
 
 ## 🔥 About Me  
-🚀 Passionate about **technology, innovation, and building impactful solutions**.  
-💡 Exploring **Web Development, Competitive Programming, and AI/ML**.  
-🔧 Love **problem-solving, automation, and experimenting with new tech**.  
-📚 Constantly learning to **become a better developer every day**.  
+🎓 **CS Undergrad @ Thapar University**  
+🚀 Passionate about **technology, innovation, and problem-solving**  
+💡 Exploring **Web Development, Competitive Programming, and AI/ML**  
+🔧 Love **automation, experimenting with new tech, and building impactful solutions**  
+📚 Always learning and striving to **become a better developer every day**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
+### 🚀 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,git,github,vscode,linux,docker,postman,aws,vercel,mysql,sqlite,mongodb" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" alt="Programming Languages" />
+</p>  
+
+### 🔧 Development & Technologies  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,aws,vercel" alt="Dev Tools & Platforms" />
+</p>
+
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="Databases" />
 </p>
 
 ---
@@ -31,10 +39,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinjindall&theme=radical&hide_border=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api?username=jatinjindall&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinjindall&layout=compact&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
 ---
