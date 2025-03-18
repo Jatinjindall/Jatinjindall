@@ -31,15 +31,10 @@
 
 ---
 
-## 📊 GitHub Stats & Streak
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jatinjindall&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinjindall&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinjindall&theme=radical" width="90%" />
 </p>
 
 ---
