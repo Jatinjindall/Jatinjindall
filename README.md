@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00bfff&width=500&lines=Hey,+I'm+Jatin+Jindal!;Tech+Enthusiast+%7C+Developer+%7C+Innovator" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00bfff&width=500&lines=Hey,+I'm+Jatin+Jindal!;Tech+Enthusiast+%7C+Developer+%7C+Innovator;Always+Building+Something+Cool!;Welcome+to+my+GitHub+Profile!🚀" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -9,9 +9,10 @@
 ---
 
 ## 🔥 About Me  
-🎓 **CS Undergrad @ Thapar University** | 🚀 **Tech Explorer**  
-💡 **Web Dev | CP | AI/ML** | ⚡ **Automation & Innovation**  
-📚 **Learning & Building Cool Stuff Every Day**  
+🚀 **CS Undergrad @ Thapar University** | 💻 **Tech Enthusiast**  
+💡 **Web Dev | CP | AI/ML** | ⚡ **Building & Innovating**  
+📚 **Lifelong Learner | Automation Fanatic**  
+🔍 **Exploring new tech & solving problems!**  
 
 ---
 
@@ -34,15 +35,26 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 GitHub Stats & Activity  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinjindall&theme=radical&hide_border=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api?username=jatinjindall&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinjindall&theme=radical" width="80%">
+</p>
+
 ---
 
-## 📫 Connect  
+## 🌟 Latest Projects  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatinjindall&theme=react-dark" width="80%">
+</p>
+
+---
+
+## 📫 Let's Connect!  
 <p align="center">
   <a href="mailto:jjindal_be23@thapar.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
