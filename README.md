@@ -1,36 +1,22 @@
-<h1 align="center">✨ Hey, I'm Jatin Jindal 👋</h1>  
+<h1 align="center">🚀 Hey, I'm <span style="color:#00bfff;">Jatin Jindal</span> 👋</h1>  
 
 <p align="center">
-  <em>CS Undergrad @ Thapar University | Web Dev, CP & AI/ML Enthusiast</em>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px">
 </p>
 
 ---
 
 ## 🔥 About Me  
-- 🎓 **CS Undergrad @ Thapar University**  
-- 🚀 Passionate about **tech, problem-solving & innovation**  
-- 💡 Exploring **Web Dev, CP & AI/ML**  
-- 🔧 Love **automation & experimenting with new tech**  
-- 📚 Always learning to **become a better developer**  
+🎓 **CS Undergrad @ Thapar University** | 🚀 **Tech Explorer**  
+💡 **Web Dev | CP | AI/ML** | ⚡ **Automation & Innovation**  
+📚 **Learning & Building Cool Stuff Every Day**  
 
 ---
 
 ## 🛠️ Tech Stack  
-
-### 🚀 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,git,github,vscode,linux,docker,mysql,mongodb" width="600px">
 </p>  
-
-### 🔧 Tools & Technologies  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,aws,vercel">
-</p>
-
-### 🗄️ Databases  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb">
-</p>
 
 ---
 
@@ -53,4 +39,10 @@
   <a href="https://github.com/jatinjindall">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="300px">
 </p>
