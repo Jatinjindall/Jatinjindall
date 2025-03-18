@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00bfff&width=500&lines=Hey,+I'm+Jatin+Jindal!;Tech+Enthusiast+%7C+Developer+%7C+Innovator" alt="Typing SVG">
 </h1>
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px">
 </p>
@@ -17,9 +16,21 @@
 ---
 
 ## 🛠️ Tech Stack  
+
+### 🚀 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,git,github,vscode,linux,docker,mysql,mongodb" width="600px">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css">
 </p>  
+
+### 🔧 Development & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,aws,vercel">
+</p>
+
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb">
+</p>
 
 ---
 
