@@ -8,33 +8,36 @@
 
 ---
 
-## 🔥 About Me  
-🎓 **CS Undergrad @ Thapar University**  
-🚀 Exploring **Web Development, Competitive Programming**  
-📚 Always learning and striving to **become a better developer every day**
+<h2 align="center">🔥 About Me</h2>
+
+<p align="center">
+  🎓 <b>CS Undergrad @ Thapar University</b> <br>
+  🚀 Exploring <b>Web Development, Competitive Programming</b> <br>
+  📚 Always learning and striving to <b>become a better developer every day</b>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### 🚀 Programming Languages
+<h3 align="center">🚀 Programming Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" alt="Programming Languages">
 </p>
 
-### 🔧 Development & Tools
+<h3 align="center">🔧 Development & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,aws,vercel" alt="Development Tools">
 </p>
 
-### 🗄️ Databases
+<h3 align="center">🗄️ Databases</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="Databases">
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinjindall&theme=radical&hide_border=true" width="48%" alt="Streak Stats">
@@ -43,7 +46,7 @@
 
 ---
 
-## 📫 Connect
+<h2 align="center">📫 Connect</h2>
 
 <p align="center">
   <a href="mailto:jjindal_be23@thapar.edu">
