@@ -15,7 +15,7 @@
 - 🚀 Passionate about **technology, innovation, and problem-solving**  
 - 💡 Exploring **Web Development, Competitive Programming, and AI/ML**  
 - 🔧 Love **automation, experimenting with new tech, and building impactful solutions**  
-- 📚 Always learning and striving to **become a better developer every day**
+- 📚 Always learning and striving to **become a better developer every day**  
 
 ---
 
@@ -23,17 +23,17 @@
 
 ### 🚀 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" alt="Programming Languages" width="80px">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" alt="Programming Languages" width="400px">
 </p>  
 
 ### 🔧 Development & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,aws,vercel" alt="Development Tools" width="80px">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,aws,vercel" alt="Development Tools" width="400px">
 </p>
 
 ### 🗄️ Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="Databases" width="80px">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="Databases" width="300px">
 </p>
 
 ---
@@ -42,13 +42,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinjindall&theme=radical&hide_border=true" alt="Streak Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api?username=jatinjindall&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="48%">
-</p>
-
----
-
-## 🌐 Visitors  
-<p align="center">
-  <img src="https://profile-counter.glitch.me/jatinjindall/count.svg" alt="Visitor Count">
 </p>
 
 ---
