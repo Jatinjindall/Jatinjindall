@@ -1,4 +1,5 @@
 # 🚀 Hi there, I'm Jatin Jindal! 👋  
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px">
 </p>
@@ -9,14 +10,25 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
+### 🚀 Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,git,linux,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,javascript,sql" />
+</p>
+
+### 🔧 Development & Technologies  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode,github,postman,figma,bootstrap,mysql" />
+</p>
+
+### 🔍 Libraries & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
 </p>
 
 - **Languages:** C++ (Advanced), Java (Intermediate), Python (Advanced), SQL (Intermediate)  
-- **Development Areas:** Data Structures & Algorithms, Object-Oriented Design, Database Design, RESTful APIs, Agile Development, Frontend & Backend Development  
-- **Tools & Technologies:** Git, Visual Studio Code, MySQL Workbench, Linux, Docker, NumPy, Pandas  
+- **Development Areas:** Data Structures & Algorithms, Object-Oriented Design, Database Design, RESTful APIs, Agile Development, AI/ML Basics, Frontend & Backend Development  
+- **Tools & Technologies:** Git, Visual Studio Code, MySQL Workbench, Linux, Docker, NumPy, Pandas, Postman, Figma  
 
 ---
 
