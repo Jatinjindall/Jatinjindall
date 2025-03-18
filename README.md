@@ -8,11 +8,10 @@
 
 ---
 
-## 🔥 About Me
-
-**CS Undergrad @ Thapar University**  
-**Tech Explorer** • **Web Dev | CP | AI/ML** • **Automation & Innovation**  
-**Learning & Building Cool Stuff Every Day**
+## 🔥 About Me  
+🎓 **CS Undergrad @ Thapar University**  
+🚀 Exploring **Web Development, Competitive Programming**  
+📚 Always learning and striving to **become a better developer every day**
 
 ---
 
