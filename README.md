@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100px" alt="Intro GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="Intro GIF">
 </p>
 
 ---
@@ -40,8 +40,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinjindall&theme=radical&hide_border=true" width="48%" alt="Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinjindall&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinjindall&theme=radical&hide_border=true" width="38%" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatinjindall&show_icons=true&theme=tokyonight&hide_border=true" width="38%" alt="GitHub Stats">
 </p>
 
 ---
