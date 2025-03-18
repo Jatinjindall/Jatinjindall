@@ -10,6 +10,14 @@
 
 ---
 
+## 🔥 About Me  
+- 🎓 **CS Undergrad @ Thapar University**  
+- 💡 Passionate about **technology, coding, and building innovative solutions**.  
+- 🚀 Exploring **Web Development, Competitive Programming, and AI/ML**.    
+- 📚 Always learning and striving to **become a better developer every day**.  
+
+---
+
 ## 🛠️ Tech Stack & Skills  
 
 ### 🚀 Programming Languages  
@@ -34,6 +42,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinjindall&theme=radical&hide_border=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api?username=jatinjindall&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinjindall&layout=compact&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
 ---
